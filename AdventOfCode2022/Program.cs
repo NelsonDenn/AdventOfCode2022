@@ -6,7 +6,7 @@ namespace AdventOfCode2022
 	{
 		static void Main(string[] args)
 		{
-			var result = Day1.Run();
+			var result = Day14.Run();
 			Console.WriteLine($"Result: {result}");
 		}
 	}
